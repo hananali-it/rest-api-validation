@@ -1,0 +1,14 @@
+Status Code:
+200
+
+Response JSON:
+{
+  "userId": 1,
+  "id": 1,
+  "title": "sample title",
+  "body": "sample body"
+}
+
+Validation Results:
+Status code is valid.
+Required fields are present.
